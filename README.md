@@ -1,5 +1,5 @@
-## Maharashtra Construction Demand Analysis
-# Project Overview
+# Maharashtra Construction Demand Analysis
+## Project Overview
 
 This project analyzes construction material demand across Maharashtra to uncover regional consumption patterns, pricing trends, and supply-demand concentration.
 
@@ -15,7 +15,7 @@ Urban vs semi-urban consumption trends
 
 Seasonal and pricing dynamics
 
-# Business Objective
+## Business Objective
 
 To derive data-driven insights that can support:
 
@@ -27,7 +27,7 @@ Pricing and margin decisions
 
 Channel allocation planning
 
-# Tools & Technologies
+## Tools & Technologies
 
 SQL (Data Cleaning & Aggregation)
 
