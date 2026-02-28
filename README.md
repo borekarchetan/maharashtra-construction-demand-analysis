@@ -38,3 +38,5 @@ Tableau (Interactive Dashboard Development)
 Exploratory Data Analysis (EDA)
 
 
+![Construction Dashboard Preview](dashboards/construction_dashboard_overview.jpeg)
+
