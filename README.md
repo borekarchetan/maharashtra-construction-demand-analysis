@@ -38,5 +38,43 @@ Tableau (Interactive Dashboard Development)
 Exploratory Data Analysis (EDA)
 
 
+## Key Insights
+
+Top 3 districts contribute majority of material demand concentration
+
+Cement & steel categories dominate total volume share
+
+Urban clusters show higher pricing consistency vs rural markets
+
+Demand variability suggests opportunity for decentralized warehousing
+
+## Strategic Recommendations
+
+Inventory Optimization
+Prioritize stocking in high-demand districts to reduce lead times and logistics cost.
+
+Targeted Market Expansion
+Focus channel development in emerging Tier-2 districts with rising demand trends.
+
+Dynamic Pricing Strategy
+Adjust pricing in high-demand regions to protect margins while maintaining competitiveness.
+
+Supply Chain Efficiency
+Consider regional warehousing hubs to reduce distribution inefficiencies.
+
+## Project Outcome
+
+This project demonstrates:
+
+SQL proficiency in structured data analysis
+
+Dashboard storytelling capability
+
+Business insight extraction from raw operational data
+
+Strategic thinking aligned with consulting frameworks
+
+
+
 ![Construction Dashboard Preview](dashboards/construction_dashboard_overview.jpeg)
 
